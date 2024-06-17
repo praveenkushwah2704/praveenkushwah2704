@@ -2,7 +2,7 @@
 - 👀 I’m interested in web and game development
 - 🌱 I’m currently learning web development and dsa in c++
 - 💞️ I’m looking to collaborate on projects 
-- 📫 How to reach me my instagram handle-@praveen_2355 my linkein handle-@praveen kushwah
+- 📫 How to reach me:my instagram handle-@praveen_2355 my linkein profile-@praveen kushwah
 
 
 <!---
