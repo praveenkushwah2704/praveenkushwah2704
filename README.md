@@ -16,5 +16,7 @@ Competitive Programming and Data Structures & Algorithms in C++
 
 💼 LinkedIn: Praveen Kushwah
 
+📫 Reach me at: praveenkushwah1104@gmail.com
+
 🛠️ Building. Learning. Sharing.
 Let’s grow together!
