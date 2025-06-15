@@ -1,11 +1,20 @@
-- 👋 Hi, I’m @praveenkushwah2704
-- 👀 I’m interested in web and game development
-- 🌱 I’m currently learning web development and dsa in c++
-- 💞️ I’m looking to collaborate on projects 
-- 📫 How to reach me:my instagram handle-@praveen_2355 my linkein profile-@praveen kushwah
+👋 Hi there, I'm Praveen Kushwah
+🎓 College Student | 🏫 Jaypee University, Guna
+💻 Passionate Web Developer | 🚀 DSA Enthusiast (C++)
 
+👨‍💻 I'm currently diving deep into:
 
-<!---
-praveenkushwah2704/praveenkushwah2704 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Frontend Web Development (HTML, CSS, JavaScript)
+
+Competitive Programming and Data Structures & Algorithms in C++
+
+🌱 Learning and growing every day
+🤝 Open to collaborating on exciting development and DSA projects
+📬 Connect with me:
+
+📸 Instagram: @praveen_2355
+
+💼 LinkedIn: Praveen Kushwah
+
+🛠️ Building. Learning. Sharing.
+Let’s grow together!
